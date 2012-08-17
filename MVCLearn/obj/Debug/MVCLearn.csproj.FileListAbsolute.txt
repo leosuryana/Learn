@@ -1,0 +1,7 @@
+E:\Code\Learn\MVCLearn\bin\MVCLearn.dll
+E:\Code\Learn\MVCLearn\bin\MVCLearn.pdb
+E:\Code\Learn\MVCLearn\bin\EntityFramework.dll
+E:\Code\Learn\MVCLearn\bin\EntityFramework.xml
+E:\Code\Learn\MVCLearn\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\Learn\MVCLearn\obj\Debug\MVCLearn.dll
+E:\Code\Learn\MVCLearn\obj\Debug\MVCLearn.pdb
